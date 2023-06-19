@@ -40,7 +40,7 @@ My research interest includes Graph Neraul Network and Partial Differential Equa
 - *2022.05 - 2023.04*, National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", Project leader. (Completed)
 
 # 📝 Publications
-- *To Be Determined* :)
+- *To Be Determined* : )
 
 <!--- # 💬 Invited Talks
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
