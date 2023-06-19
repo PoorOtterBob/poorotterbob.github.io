@@ -29,7 +29,7 @@ My research interest includes Graph Neraul Network and Partial Differential Equa
 - *2019.09 - 2023.06*, B.Sc., Mathematics and Applied Mathematics, School of Mathematics, Hunan University. 
 
 # 💻 Internships
-- *2022.08 - present*, [Data Intellgence Lab](http://di.ustc.edu.cn/main.htm), Suzhou Institute of Advanced Research, China.
+- *2022.08 - present*, [Data Intelligence Lab](http://di.ustc.edu.cn/main.htm), Suzhou Institute of Advanced Research, China.
 
 # 🥇 Honors and Awards
 <!--- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
