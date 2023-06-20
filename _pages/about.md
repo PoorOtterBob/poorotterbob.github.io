@@ -25,7 +25,7 @@ My research interest includes Graph Neraul Network and Partial Differential Equa
 - *2023.04*: &nbsp;🎉🎉 A National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", has completed! 
 
 # 📖 Educations
-- *2023.09 - present*, M.Sc in progress, Data Science, School of Data Science, University of Science and Technology of China. 
+- *2023.09 - present*, M.Sc. in progress, Data Science, School of Data Science, University of Science and Technology of China. 
 - *2019.09 - 2023.06*, B.Sc., Mathematics and Applied Mathematics, School of Mathematics, Hunan University. 
 
 # 💻 Internships
