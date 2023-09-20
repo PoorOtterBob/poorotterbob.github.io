@@ -42,5 +42,5 @@ My research interest includes Graph Neraul Network and Partial Differential Equa
 # 📝 Publications
 - *To Be Determined* : )
 
-<!--- # 💬 Invited Talks
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
+# 💬 Invited Talks
+- *2023.09.20*, Persentation on group meeting in Data Intelligence Lab, "Residuals Propagation and Rethinking".  \ [\[PPT\]](https://github.com/PoorOtterBob/Presentation/blame/main/Propagation%20on%20Residuals%20and%20Rethinking.pptx/)
