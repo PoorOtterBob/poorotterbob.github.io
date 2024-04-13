@@ -41,7 +41,7 @@ My research interest includes Graph Neraul Network and Partial Differential Equa
 - *2022.05 - 2023.04*, National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", Project leader. (Completed)
 
 # 📝 Publications
-- *To Be Determined* : )
+- *To Be Determined* : ) Almost there!!!
 
 # 💬 Invited Talks
 - *2023.09.20*, Persentation on group meeting in Data Intelligence Lab, "Residuals Propagation and Rethinking".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Propagation%20on%20Residuals%20and%20Rethinking.pdf)
