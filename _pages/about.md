@@ -22,6 +22,7 @@ I was born in Shenzhen, Guangdong Pronvince. I received my B.Sc. degree in Schoo
 My research interest includes Graph Neraul Network and Partial Differential Equations, especially in terms of the expressive power of Graph Representation Learning. I am currently researching the application of continual learning and few-shot learning on traffic prediction in graph-based scenarios. <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 One paper on spatio-temporal OOD learning has been accepted by KDD 2024! My first paper thanks to Bin!
 - *2023.04*: &nbsp;🎉🎉 A National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", has completed! 
 
 # 📖 Educations
@@ -41,7 +42,8 @@ My research interest includes Graph Neraul Network and Partial Differential Equa
 - *2022.05 - 2023.04*, National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", Project leader. (Completed)
 
 # 📝 Publications
-- *To Be Determined* : ) Almost there!!!
+- Binwu Wang, **Jiaming Ma***, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, **Yang Wang***, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://anonymous.4open.science/r/KDD126-BE27), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024. (CCF Rank A)
+<!--- *To Be Determined* : ) Almost there!!!-->
 
 # 💬 Invited Talks
 - *2023.09.20*, Persentation on group meeting in Data Intelligence Lab, "Residuals Propagation and Rethinking".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Propagation%20on%20Residuals%20and%20Rethinking.pdf)
