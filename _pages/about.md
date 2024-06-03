@@ -42,7 +42,7 @@ My research interest includes Graph Neraul Network and Partial Differential Equa
 - *2022.05 - 2023.04*, National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", Project leader. (Completed)
 
 # 📝 Publications
-- Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://anonymous.4open.science/r/KDD126-BE27), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024. (CCF Rank A)
+- Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts]([https://anonymous.4open.science/r/KDD126-BE27](https://github.com/PoorOtterBob/STONE-KDD-2024)), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024. (CCF Rank A)
 <!--- *To Be Determined* : ) Almost there!!!-->
 
 # 💬 Invited Talks
