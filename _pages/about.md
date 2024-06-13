@@ -47,3 +47,4 @@ My research interest includes Graph Neraul Network and Partial Differential Equa
 
 # 💬 Invited Talks
 - *2023.09.20*, Persentation on group meeting in Data Intelligence Lab, "Residuals Propagation and Rethinking".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Propagation%20on%20Residuals%20and%20Rethinking.pdf)
+- *2024.06.13*, Persentation on Optimization Theory Course, "Variance-based Regularization with Convex Objectives".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Variance-based%20Regularization%20with%20Convex%20Objectives.pdf)
