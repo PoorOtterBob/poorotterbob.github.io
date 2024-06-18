@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I was born in Shenzhen, Guangdong Pronvince. I received my B.Sc. degree in School of Mathematics in June 2023 from Hunan University. In the same year, I was admitted to pursue a M.Sc. degree in School of Artificial Intelligence and Data Science, University of Science and Technology of China without entrance examination. I am a member in the Data Intelligence Lab. 
+Hi! I'm Jiaming Ma, a second-year Master's student at USTC, advised by Prof. [Yang Wang](http://di.ustc.edu.cn/_upload/tpl/14/64/5220/template5220/PersonalSite/index.html). I am a member in [Data Intelligence Lab](http://di.ustc.edu.cn/main.htm). <!--I was born in Shenzhen, Guangdong Pronvince. I received my B.Sc. degree in School of Mathematics in June 2023 from Hunan University. In the same year, I was admitted to pursue a M.Sc. degree in School of Artificial Intelligence and Data Science, University of Science and Technology of China without entrance examination. -->
+I am dedicated to making a contribution to the advancement of AI🧠. My research interests lie in a wide range of intersection of Graph Neraul Networks and Algebraic, Optimization and Partial Differential Equations, especially in terms of the theory of Graph Representation Learning, the application of Metric Embeddings and Robust Optimization. My current research focuses on the application of out-of-distribution learning and zero-shot learning on spatio-temporal prediction in graph-based scenarios. <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-My research interest includes Graph Neraul Network and Partial Differential Equations, especially in terms of the expressive power of Graph Representation Learning. I am currently researching the application of out-of-distribution learning and few-shot learning on spatio-temporal prediction in graph-based scenarios. <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+I look forward to working with collaborators from different grade levels and different scientific backgrounds on a wide range of topics in Deep Learning that are strongly related to Mathematics. Fell free to email me :)
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 One paper on spatio-temporal OOD learning has been accepted by KDD 2024! My first paper thanks to Bin!
@@ -29,8 +30,12 @@ My research interest includes Graph Neraul Network and Partial Differential Equa
 - *2023.09 - present*, M.Sc. in progress, Data Science (Mathematics), [School of Artificial Intellifgence and Data Science](https://saids.ustc.edu.cn/main.htm), University of Science and Technology of China (USTC). 
 - *2019.09 - 2023.06*, B.Sc., Mathematics and Applied Mathematics, [School of Mathematics](http://math.hnu.edu.cn/index.htm), Hunan University (HNU). 
 
-# 💻 Internships
+# 💻 Research Internships
 - *2022.08 - present*, [Data Intelligence Lab](http://di.ustc.edu.cn/main.htm), [Suzhou Institute of Advanced Research](https://sz.ustc.edu.cn/index.html), China.
+
+# 📝 Publications
+- Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://github.com/PoorOtterBob/STONE-KDD-2024), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024. (CCF Rank A)
+<!--- *To Be Determined* : ) Almost there!!!-->
 
 # 🥇 Honors and Awards
 <!--- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
@@ -38,13 +43,9 @@ My research interest includes Graph Neraul Network and Partial Differential Equa
 - *2023.6*  Outstanding Bachelor's Thesis Award: "A Research on Topological Degree Theory and Its Application to Nonlinear Elliptic Equation Problems at Resonance", HNU. 
 - *2023.5*  Outstanding Graduate, HNU. 
 
-# 🔧 Projects 
-- *2022.05 - 2023.04*, National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", Project leader. (Completed)
-
-# 📝 Publications
-- Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://github.com/PoorOtterBob/STONE-KDD-2024), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024. (CCF Rank A)
-<!--- *To Be Determined* : ) Almost there!!!-->
-
 # 💬 Invited Talks
 - *2024.06.13*, Persentation on Optimization Theory Course, "Variance-based Regularization with Convex Objectives".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Variance-based%20Regularization%20with%20Convex%20Objectives.pdf)
 - *2023.09.20*, Persentation on group meeting in Data Intelligence Lab, "Residuals Propagation and Rethinking".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Propagation%20on%20Residuals%20and%20Rethinking.pdf)
+
+# 🔧 Projects 
+- *2022.05 - 2023.04*, National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", Project leader. (Completed)
