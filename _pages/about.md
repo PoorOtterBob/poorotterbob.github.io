@@ -32,12 +32,13 @@ I look forward to working with collaborators from different scientific backgroun
 - *2019.09 - 2023.06*, B.Sc., Mathematics and Applied Mathematics, [School of Mathematics](http://math.hnu.edu.cn/index.htm), Hunan University (HNU). 
 
 # 📝 Publications
-- Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://github.com/PoorOtterBob/STONE-KDD-2024), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024. (CCF Rank A)
+- Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://github.com/PoorOtterBob/STONE-KDD-2024), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024, Barcelona, Spain. (CCF Rank A)
 <!--- *To Be Determined* : ) Almost there!!!-->
 
 # 💬 Invited Talks
-- *2024.06.13*, Persentation on Optimization Theory course, "Variance-based Regularization with Convex Objectives".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Variance-based%20Regularization%20with%20Convex%20Objectives.pdf)
-- *2023.09.20*, Persentation on group meeting in Data Intelligence Lab, "Residuals Propagation and Rethinking".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Propagation%20on%20Residuals%20and%20Rethinking.pdf)
+- *2024.07.03*, Online Presentation on KDD 2024, Barcelona, Spain, "Kill Spatial and Temporal Shifts with one STONE". [Vedio](https://poorotterbob.github.io/)
+- *2024.06.13*, Presentation on Optimization Theory course, "Variance-based Regularization with Convex Objectives".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Variance-based%20Regularization%20with%20Convex%20Objectives.pdf)
+- *2023.09.20*, Presentation on group meeting in Data Intelligence Lab, "Residuals Propagation and Rethinking".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Propagation%20on%20Residuals%20and%20Rethinking.pdf)
 
 # 🥇 Honors and Awards
 <!--- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
