@@ -5,18 +5,24 @@ main:
 
   - title: "News"
     url: "/#-news"
-
+    
+  - title: "Educations"
+    url: "/#-educations"
+    
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
+  
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Research Internships"
+    url: "/#-research-internships"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Projects"
+    url: "/#-projects"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Collaborators"
+    url: "/#-collaborators"
