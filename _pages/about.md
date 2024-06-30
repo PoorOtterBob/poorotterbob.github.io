@@ -25,7 +25,7 @@ redirect_from:
         position: fixed;
         bottom: 0;
         right: 0;
-        font-weight: bold
+        font-weight: bold;
     }
 </style>
 
