@@ -16,19 +16,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<!--
+
 <div class="motto-container">
-    <p>Life is pain au chocolat</p>
+    <p>Life is pain <font color="#0080FF">au chocolat</font> </p>
 </div>
 <style>
     .motto-container {
         position: fixed;
         bottom: 0;
         right: 0;
-        color: red;
     }
 </style>
--->
+
 # 😊 About me
 Hi! I’m Jiaming Ma, a second-year Master’s student in the School of AI+DS at USTC, as a member in [Data Intelligence Lab](http://di.ustc.edu.cn/main.htm) advised by Prof. [Yang Wang](http://di.ustc.edu.cn/_upload/tpl/14/64/5220/template5220/PersonalSite/index.html) and Dr. [Binwu Wang](http://di.ustc.edu.cn/_upload/tpl/14/91/5265/template5265/MembersSite/wbw/index.html).<!--I was born in Shenzhen, Guangdong Pronvince. I received my B.Sc. degree in School of Mathematics in June 2023 from Hunan University. In the same year, I was admitted to pursue a M.Sc. degree in School of Artificial Intelligence and Data Science, University of Science and Technology of China without entrance examination. -->
 
