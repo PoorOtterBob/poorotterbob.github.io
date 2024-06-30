@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="motto-container">
-    <p>Life is pain <font color="#0080FF">au chocolat</font> </p>
+    <p>**Life is pain** <font color="#0000C6">**au chocolat**</font> </p>
 </div>
 <style>
     .motto-container {
