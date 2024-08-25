@@ -52,7 +52,7 @@ I look forward to working with collaborators from different scientific backgroun
 <!--- *To Be Determined* : ) Almost there!!!-->
 
 # 💬 Invited Talks
-- *2024.07.03*, Online Presentation on KDD 2024, Barcelona, Spain, "Kill Spatial and Temporal Shifts with one STONE🪨". [\[PPT\]](https://poorotterbob.github.io/Presentation/KDD2024_short.pdf) [\[Vedio\]](https://poorotterbob.github.io/Presentation/KDD2024_short.mp4)
+- *2024.07.03*, Online Presentation on KDD 2024, Barcelona, Spain, "Kill Spatial and Temporal Shifts with one STONE🪨". [\[PPT\]](https://poorotterbob.github.io/Presentation/KDD2024_short.pdf) [\[Vedio\]](https://www.youtube.com/watch?v=V_ZGZXFnUXY)<!--(https://poorotterbob.github.io/Presentation/KDD2024_short.mp4)-->
 - *2024.06.13*, Presentation on Optimization Theory course, Hefei, China, "Variance-based Regularization with Convex Objectives".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Variance-based%20Regularization%20with%20Convex%20Objectives.pdf)
 - *2023.09.20*, Presentation on group meeting in Data Intelligence Lab, Suzhou, China, "Residuals Propagation and Rethinking".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Propagation%20on%20Residuals%20and%20Rethinking.pdf)
 
