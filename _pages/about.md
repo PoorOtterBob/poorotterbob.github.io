@@ -69,6 +69,7 @@ I look forward to working with collaborators from different scientific backgroun
 - *2022.05 - 2023.04*, National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", Project leader. (Completed)
 
 # 🤝 Activities
+- Program Committee Member for ICLR 2025
 - Program Committee Member for ICASSP 2025
 
 # 🎓️ Collaborators
