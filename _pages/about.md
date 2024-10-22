@@ -69,8 +69,8 @@ I look forward to working with collaborators from different scientific backgroun
 - *2022.05 - 2023.04*, National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", Project leader. (Completed)
 
 # 🤝 Activities
-- Program Committee Member for ICLR 2025
-- Program Committee Member for ICASSP 2025
+- Program Committee Member for ICLR 2025.
+- Program Committee Member for ICASSP 2025.
 
 # 📆 Teaching
 - *2024.09 - present*, [Design and Analysis of Algorithm](http://home.ustc.edu.cn/~wx309/lecture/alg2025/index.html), Teaching Assistant, USTC.
