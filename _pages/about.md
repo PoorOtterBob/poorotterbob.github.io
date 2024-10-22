@@ -72,6 +72,9 @@ I look forward to working with collaborators from different scientific backgroun
 - Program Committee Member for ICLR 2025
 - Program Committee Member for ICASSP 2025
 
+# 📆 Teaching
+- *2024.09 - present*, [Design and Analysis of Algorithm](http://home.ustc.edu.cn/~wx309/lecture/alg2025/index.html), Teaching Assistant, USTC.
+
 # 🎓️ Collaborators
 - Prof. [Yang Wang](http://di.ustc.edu.cn/_upload/tpl/14/64/5220/template5220/PersonalSite/index.html), Vice Dean of [the School of Software Engineering](https://sse.ustc.edu.cn/main.htm), USTC.
 - Dr. [Binwu Wang](http://di.ustc.edu.cn/_upload/tpl/14/91/5265/template5265/MembersSite/wbw/index.html), Associate Researcher, USTC.
