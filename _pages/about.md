@@ -58,6 +58,8 @@ I look forward to working with collaborators from different scientific backgroun
 
 # 🥇 Honors and Awards
 <!--- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- *2024.10* Huawei Scholarship, USTC. 
+- *2024.10* First-class Scholarship for Outstanding Students, USTC. 
 - *2023.10* First-class Scholarship for Outstanding Students, USTC. 
 - *2023.6*  Outstanding Bachelor's Thesis Award: "A Research on Topological Degree Theory and Its Application to Nonlinear Elliptic Equation Problems at Resonance", HNU. 
 - *2023.5*  Outstanding Graduate, HNU. 
