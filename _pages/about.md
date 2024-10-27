@@ -41,7 +41,7 @@ I look forward to working with collaborators from different scientific backgroun
 - *2023.04*: &nbsp;🎉🎉 A National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", has completed! 
 
 # 📖 Educations
-- *2023.09 - present*, M.Sc. in progress, Data Science (Mathematics), [School of Artificial Intellifgence and Data Science](https://saids.ustc.edu.cn/main.htm), University of Science and Technology of China (USTC). 
+- *2023.09 - present*, M.Sc. in progress, Data Science (Mathematics), [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), University of Science and Technology of China (USTC). 
 - *2019.09 - 2023.06*, B.Sc., Mathematics and Applied Mathematics, [School of Mathematics](http://math.hnu.edu.cn/index.htm), Hunan University (HNU). 
 
 # 📝 Publications
