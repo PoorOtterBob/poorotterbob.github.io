@@ -73,6 +73,7 @@ I look forward to working with collaborators from different scientific backgroun
 # 🤝 Activities
 - Program Committee Member for ICLR 2025.
 - Program Committee Member for ICASSP 2025.
+- Program Committee Member for ISCI 2025.
 
 # 📆 Teaching
 - *2024.09 - present*, [Design and Analysis of Algorithm](http://home.ustc.edu.cn/~wx309/lecture/alg2025/index.html), Teaching Assistant, USTC.
