@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/248/9527.html"
   orcid            : "https://orcid.org/0009-0005-3696-4033"
   pinterest        :
   soundcloud       :
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  openreview       : "https://openreview.net/profile?id=~Jiaming_Ma2"
 
 
 # Reading Files
