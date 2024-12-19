@@ -37,6 +37,7 @@ I am dedicated to making a contribution to the advancement of AI🧠 and DS📊.
 I look forward to working with collaborators from different scientific backgrounds on a wide range of topics in Deep Learning that are strongly related to Mathematics. Fell free to email me :)
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper on air quality causal learning has been accepted by ICASSP 2025! Cooperation with Bin and Guanjun!
 - *2024.05*: &nbsp;🎉🎉 One paper on spatio-temporal OOD learning has been accepted by KDD 2024! My first paper thanks to Bin!
 - *2023.04*: &nbsp;🎉🎉 A National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", has completed! 
 
@@ -46,9 +47,13 @@ I look forward to working with collaborators from different scientific backgroun
 
 # 📝 Publications
 <!--- - Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://github.com/PoorOtterBob/STONE-KDD-2024), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024, Barcelona, Spain. (CCF Rank A)-->
+- Spatiotemporal Causal Decoupling Model for Air Quality Forecasting,<br>
+  **Jiaming Ma**, Guanjun Wang, Sheng Huang, Bingwu Wang&#42;, Pengkun Wang, Yang Wang&#42;,<br>
+  The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing, **_(ICASSP)_**, 2025, Hyderabad, India. (CCF Rank B)
+
 - [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://dl.acm.org/doi/abs/10.1145/3637528.3671680),<br>
   Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;,<br>
-  The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024, Barcelona, Spain. (CCF Rank A)
+  The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024, Barcelona, Spain. (CCF Rank A)
 <!--- *To Be Determined* : ) Almost there!!!-->
 
 # 💬 Invited Talks
