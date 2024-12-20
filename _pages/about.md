@@ -47,7 +47,7 @@ I look forward to working with collaborators from different scientific backgroun
 
 # 📝 Publications
 <!--- - Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://github.com/PoorOtterBob/STONE-KDD-2024), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024, Barcelona, Spain. (CCF Rank A)-->
-- Spatiotemporal Causal Decoupling Model for Air Quality Forecasting,<br>
+- [Spatiotemporal Causal Decoupling Model for Air Quality Forecasting](https://poorotterbob.github.io),<br>
   **Jiaming Ma**, Guanjun Wang, Sheng Huang, Bingwu Wang&#42;, Pengkun Wang, Yang Wang&#42;,<br>
   The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing, **_(ICASSP)_**, 2025, Hyderabad, India. (CCF Rank B)
 
