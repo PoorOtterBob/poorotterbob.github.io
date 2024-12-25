@@ -90,14 +90,3 @@ I look forward to working with collaborators from different scientific backgroun
 # 🎓️ Collaborators
 - Prof. [Yang Wang](http://di.ustc.edu.cn/_upload/tpl/14/f7/5367/template5367/PersonalSite/index.html), Vice Dean of [the School of Software Engineering](https://sse.ustc.edu.cn/main.htm), USTC.
 - Dr. [Binwu Wang](http://di.ustc.edu.cn/_upload/tpl/14/f7/5367/template5367/MembersSite/wbw/index.html), Associate Researcher, USTC.
-
-
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SBSDQTQP97"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-SBSDQTQP97');
-</script>
