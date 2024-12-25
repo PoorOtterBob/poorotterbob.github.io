@@ -29,6 +29,18 @@ redirect_from:
     }
 </style>
 
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SBSDQTQP97"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SBSDQTQP97');
+</script>
+
+
+
 # 😊 About me
 Hi! I’m Jiaming Ma, a second-year Master’s student in the School of AI+DS at USTC, as a member in [Data Intelligence Lab](http://di.ustc.edu.cn/main.htm) advised by Prof. [Yang Wang](http://di.ustc.edu.cn/_upload/tpl/14/f7/5367/template5367/PersonalSite/index.html) and Dr. [Binwu Wang](http://di.ustc.edu.cn/_upload/tpl/14/f7/5367/template5367/MembersSite/wbw/index.html).<!--I was born in Shenzhen, Guangdong Pronvince. I received my B.Sc. degree in School of Mathematics in June 2023 from Hunan University. In the same year, I was admitted to pursue a M.Sc. degree in School of Artificial Intelligence and Data Science, University of Science and Technology of China without entrance examination. -->
 
@@ -90,12 +102,4 @@ I look forward to working with collaborators from different scientific backgroun
 - Dr. [Binwu Wang](http://di.ustc.edu.cn/_upload/tpl/14/f7/5367/template5367/MembersSite/wbw/index.html), Associate Researcher, USTC.
 
 
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SBSDQTQP97"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-SBSDQTQP97');
-</script>
