@@ -39,7 +39,7 @@ I am dedicated to making a contribution to the advancement of AI🧠 and DS📊.
 I look forward to working with collaborators from different scientific backgrounds on a wide range of topics in Deep Learning that are strongly related to Mathematics. Fell free to email me :)
 
 # 🔥 News
-- *2025.2*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal learning has been accepted by VLDB 2025! SOTA in any-scaled datasets! 
+- *2025.02*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal learning has been accepted by VLDB 2025! SOTA in any-scaled datasets! 
 - *2024.12*: &nbsp;🎉🎉 One paper on air quality causal learning has been accepted by ICASSP 2025! Cooperation with Bin and Guanjun!
 - *2024.05*: &nbsp;🎉🎉 One paper on spatio-temporal OOD learning has been accepted by KDD 2024! My first paper thanks to Bin!
 - *2023.04*: &nbsp;🎉🎉 A National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", has completed! 
