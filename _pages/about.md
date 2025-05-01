@@ -39,10 +39,11 @@ I am dedicated to making a contribution to the advancement of AI🧠 and DS📊.
 I look forward to working with collaborators from different scientific backgrounds on a wide range of topics in Deep Learning that are strongly related to Mathematics. Fell free to email me :)
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal OOD learning has been accepted by ICML 2025! Compiled by Cui! Thanks to Bin!
 - *2025.04*: &nbsp;🎉🎉 One paper on large-scaled air quality forecasting has been accepted by IJCAI 2025! The 1st open-source large-scale air quality dataset (LargeAQ)! Compiled by Cui!
 - *2025.02*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal learning has been accepted by VLDB 2025! SOTA in any-scaled datasets! 
 - *2024.12*: &nbsp;🎉🎉 One paper on air quality causal learning has been accepted by ICASSP 2025! Cooperation with Bin and Guanjun!
-- *2024.05*: &nbsp;🎉🎉 One paper on spatio-temporal OOD learning has been accepted by KDD 2024! My first paper thanks to Bin!
+- *2024.05*: &nbsp;🎉🎉 One paper on spatiotemporal OOD learning has been accepted by KDD 2024! My first paper thanks to Bin!
 - *2023.04*: &nbsp;🎉🎉 A National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", has completed! 
 
 # 📖 Educations
@@ -51,6 +52,10 @@ I look forward to working with collaborators from different scientific backgroun
 
 # 📝 Publications
 <!--- - Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://github.com/PoorOtterBob/STONE-KDD-2024), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024, Barcelona, Spain. (CCF Rank A)-->
+- [Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io),<br>
+  **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Xu Wang, Yang Wang&#42;,<br>
+  The 42nd International Conference on Machine Learning, **_(ICML)_**, 2025, Vancouver, Canada. (CCF Rank A)
+
 - [Causal Learning Meet Covariates: Empowering Lightweight and Effective Nationwide Air Quality Forecasting](https://poorotterbob.github.io),<br>
   **Jiaming Ma**, Zhiqing Cui, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Zhe Zhao, Yang Wang&#42;,<br>
   The 34th International Joint Conference on Artificial Intelligence, **_(IJCAI)_**, 2025, Montreal, Canada. (CCF Rank A)
