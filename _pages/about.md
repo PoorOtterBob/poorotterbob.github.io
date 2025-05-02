@@ -39,7 +39,7 @@ I am dedicated to making a contribution to the advancement of AI🧠 and DS📊.
 I look forward to working with collaborators from different scientific backgrounds on a wide range of topics in Deep Learning that are strongly related to Mathematics. Fell free to email me :)
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal OOD learning has been accepted by ICML 2025! Compiled by Cui! Thanks to Bin!
+- *2025.05*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal OOD learning has been accepted by ICML 2025! Thanks to Bin!
 - *2025.04*: &nbsp;🎉🎉 One paper on large-scaled air quality forecasting has been accepted by IJCAI 2025! The 1st open-source large-scale air quality dataset (LargeAQ)! Compiled by Cui!
 - *2025.02*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal learning has been accepted by VLDB 2025! SOTA in any-scaled datasets! 
 - *2024.12*: &nbsp;🎉🎉 One paper on air quality causal learning has been accepted by ICASSP 2025! Cooperation with Bin and Guanjun!
