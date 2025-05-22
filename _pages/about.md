@@ -95,6 +95,7 @@ I look forward to working with collaborators from different scientific backgroun
 
 # 🤝 Activities
 - Program Committee Member for ICLR 2025.
+- Program Committee Member for NIPS 2025.
 - Program Committee Member for IJCAI 2025.
 - Program Committee Member for ICASSP 2025.
 - Program Committee Member for IJCNN 2025.
