@@ -36,7 +36,7 @@ Hi! I’m Jiaming Ma, a Ph.D. student in the School of AI+DS at USTC, as a membe
 
 I am dedicated to making a contribution to the advancement of AI🧠 and DS📊. My research interests lie in a wide range of intersection of Deep Learning Structure (e.g. Transformer and GNN) and Algebraic, Optimization and Partial Differential Equations. My current research applications focuse on the following areas: ① Large-scale and Out-of-Distribution Spatiotemporal Learning🚗, ② Time Series Forecasting⏱️, ③ Imbalanced Graph Classification⚖️, ④ LLM-Based Multi-Agent Systems🤖, and ⑤ Any Potential Graph-Based Scenarios👍! <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-I look forward to working with collaborators from different scientific backgrounds on a wide range of topics in Deep Learning that are strongly related to Mathematics. Fell free to email me :)
+I look forward to working with collaborators from different scientific backgrounds on a wide range of topics in Deep Learning that are strongly related to Mathematics. Fell free to email me : )
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal OOD learning has been accepted by ICML 2025! Thanks to Bin!
