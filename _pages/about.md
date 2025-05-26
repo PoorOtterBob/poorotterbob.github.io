@@ -55,7 +55,7 @@ I look forward to working with collaborators from different scientific backgroun
 <!--- - Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://github.com/PoorOtterBob/STONE-KDD-2024), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024, Barcelona, Spain. (CCF Rank A)-->
 
 <p style="color: gray; font-style: italic; font-size: small;">
-    # Some articles have been accepted but not yet able to be retrieved. Please stay tuned : )
+    # Some papers have been accepted but not yet able to be retrieved. Please stay tuned : )
 </p>
 
 - [Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io),<br>
