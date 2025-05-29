@@ -123,9 +123,9 @@ I look forward to working with collaborators from different scientific backgroun
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1M1_aPy-KHbx1gYEZa5hukHU9nbLbzUZ_FoAec1dX40&cl=ffffff&w=a"></script>
 </div>
 
-<div id="globe-container" style="width: 400px; height: 300px; position: relative; overflow: hidden;">
+<!-- <div id="globe-container" style="width: 400px; height: 300px; position: relative; overflow: hidden;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1M1_aPy-KHbx1gYEZa5hukHU9nbLbzUZ_FoAec1dX40"></script>
-</div>
+</div> -->
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1M1_aPy-KHbx1gYEZa5hukHU9nbLbzUZ_FoAec1dX40&cl=ffffff&w=a"></script>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1M1_aPy-KHbx1gYEZa5hukHU9nbLbzUZ_FoAec1dX40"></script> -->
