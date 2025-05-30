@@ -58,19 +58,19 @@ I look forward to working with collaborators from different scientific backgroun
     # Some papers have been accepted but not yet able to be retrieved. Please stay tuned : )
 </p>
 
-- [Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io),<br>
+- [Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io),[![](https://img.shields.io/github/stars/PoorOtterBob/STOP)](https://github.com/PoorOtterBob/STOP)<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Xu Wang, Yang Wang&#42;,<br>
   The 42nd International Conference on Machine Learning, **_(ICML)_**, 2025, Vancouver, Canada. (CCF Rank A)
 
-- [Causal Learning Meet Covariates: Empowering Lightweight and Effective Nationwide Air Quality Forecasting](https://poorotterbob.github.io),<br>
+- [Causal Learning Meet Covariates: Empowering Lightweight and Effective Nationwide Air Quality Forecasting](https://poorotterbob.github.io),[![](https://img.shields.io/github/stars/PoorOtterBob/CauAir)](https://github.com/PoorOtterBob/CauAir)<br>
   **Jiaming Ma**, Zhiqing Cui, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Zhe Zhao, Yang Wang&#42;,<br>
   The 34th International Joint Conference on Artificial Intelligence, **_(IJCAI)_**, 2025, Montreal, Canada. (CCF Rank A)
 
-- [BiST: A Lightweight and Efficient Bi-directional Model for Spatiotemporal Prediction](https://poorotterbob.github.io),<br>
+- [BiST: A Lightweight and Efficient Bi-directional Model for Spatiotemporal Prediction](https://poorotterbob.github.io),[![](https://img.shields.io/github/stars/PoorOtterBob/BiST)](https://github.com/PoorOtterBob/BiST)<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Xu Wang, Yang Wang&#42;,<br>
   The 51st International Conference on Very Large Data Bases, **_(VLDB)_**, 2025, London, United Kingdom. (CCF Rank A)
 
-- [Spatiotemporal Causal Decoupling Model for Air Quality Forecasting](https://export.arxiv.org/pdf/2505.20119),<br>
+- [Spatiotemporal Causal Decoupling Model for Air Quality Forecasting](https://export.arxiv.org/pdf/2505.20119),[![](https://img.shields.io/github/stars/PoorOtterBob/AirCade)](https://github.com/PoorOtterBob/AirCade)<br>
   **Jiaming Ma**, Guanjun Wang, Sheng Huang, Kuo Yang, Bingwu Wang&#42;, Pengkun Wang, Yang Wang&#42;,<br>
   The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing, **_(ICASSP)_**, 2025, Hyderabad, India. (CCF Rank B)
 
