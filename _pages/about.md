@@ -61,7 +61,7 @@ I look forward to working with collaborators from different scientific backgroun
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Poster</div><img src='_pages/STOP.png' alt="The main figure of selective paper." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io) \| <br>
+[Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STOP?label=STOP Stars)](https://github.com/PoorOtterBob/STOP)<br>
 We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font></b> with Context-Aware Units <b><font color="red">[ConAUs]</font></b>, Generalized Perturbation Units <b><font color="red">[GenPUs]</font></b> and a customized spatiotemporal distributionally robust optimization approach <b><font color="red">[ST-DRO]</font></b> to address the spatio-temporal out-of-distribution issue.
 
 
