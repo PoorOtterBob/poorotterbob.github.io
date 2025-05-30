@@ -61,26 +61,26 @@ I look forward to working with collaborators from different scientific backgroun
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Poster</div><img src='_pages/STOP.png' alt="The main figure of selective paper." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STOP)](https://github.com/PoorOtterBob/STOP)<br>
+[Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STOP?label=STOP Stars)](https://github.com/PoorOtterBob/STOP)<br>
 **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Xu Wang, Yang Wang&#42;,<br>
 The 42nd International Conference on Machine Learning, **_(ICML)_**, 2025, Vancouver, Canada. (CCF Rank A)
 
 </div>
 </div>
 
-- [Causal Learning Meet Covariates: Empowering Lightweight and Effective Nationwide Air Quality Forecasting](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/CauAir)](https://github.com/PoorOtterBob/CauAir)<br>
+- [Causal Learning Meet Covariates: Empowering Lightweight and Effective Nationwide Air Quality Forecasting](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/CauAir?label=CauAir Stars)](https://github.com/PoorOtterBob/CauAir)<br>
   **Jiaming Ma**, Zhiqing Cui, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Zhe Zhao, Yang Wang&#42;,<br>
   The 34th International Joint Conference on Artificial Intelligence, **_(IJCAI)_**, 2025, Montreal, Canada. (CCF Rank A)
 
-- [BiST: A Lightweight and Efficient Bi-directional Model for Spatiotemporal Prediction](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/BiST)](https://github.com/PoorOtterBob/BiST)<br>
+- [BiST: A Lightweight and Efficient Bi-directional Model for Spatiotemporal Prediction](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/BiST)](https://github.com/PoorOtterBob/BiST?label=BiST Stars)<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Xu Wang, Yang Wang&#42;,<br>
   The 51st International Conference on Very Large Data Bases, **_(VLDB)_**, 2025, London, United Kingdom. (CCF Rank A)
 
-- [Spatiotemporal Causal Decoupling Model for Air Quality Forecasting](https://export.arxiv.org/pdf/2505.20119) \| [![](https://img.shields.io/github/stars/PoorOtterBob/AirCade)](https://github.com/PoorOtterBob/AirCade)<br>
+- [Spatiotemporal Causal Decoupling Model for Air Quality Forecasting](https://export.arxiv.org/pdf/2505.20119) \| [![](https://img.shields.io/github/stars/PoorOtterBob/AirCade?label=AirCade Stars)](https://github.com/PoorOtterBob/AirCade)<br>
   **Jiaming Ma**, Guanjun Wang, Sheng Huang, Kuo Yang, Bingwu Wang&#42;, Pengkun Wang, Yang Wang&#42;,<br>
   The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing, **_(ICASSP)_**, 2025, Hyderabad, India. (CCF Rank B)
 
-- [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://dl.acm.org/doi/abs/10.1145/3637528.3671680) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STONE-KDD-2024)](https://github.com/PoorOtterBob/STONE-KDD-2024)<br>
+- [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://dl.acm.org/doi/abs/10.1145/3637528.3671680) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STONE-KDD-2024?label=STONE Stars)](https://github.com/PoorOtterBob/STONE-KDD-2024)<br>
   Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;,<br>
   The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024, Barcelona, Spain. (CCF Rank A)
 <!--- *To Be Determined* : ) Almost there!!!-->
