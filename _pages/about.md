@@ -74,7 +74,7 @@ I look forward to working with collaborators from different scientific backgroun
   **Jiaming Ma**, Guanjun Wang, Sheng Huang, Kuo Yang, Bingwu Wang&#42;, Pengkun Wang, Yang Wang&#42;,<br>
   The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing, **_(ICASSP)_**, 2025, Hyderabad, India. (CCF Rank B)
 
-- [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://dl.acm.org/doi/abs/10.1145/3637528.3671680),<br>
+- [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://dl.acm.org/doi/abs/10.1145/3637528.3671680),[![](https://img.shields.io/github/stars/PoorOtterBob/STONE-KDD-2024)](https://github.com/PoorOtterBob/STONE-KDD-2024)<br>
   Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;,<br>
   The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024, Barcelona, Spain. (CCF Rank A)
 <!--- *To Be Determined* : ) Almost there!!!-->
