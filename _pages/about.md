@@ -55,20 +55,23 @@ I look forward to working with collaborators from different scientific backgroun
 <!--- - Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://github.com/PoorOtterBob/STONE-KDD-2024), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024, Barcelona, Spain. (CCF Rank A)-->
 
 <p style="color: gray; font-style: italic; font-size: small;">
-    # Some papers have been accepted but not yet able to be retrieved. Please stay tuned : )
+    # Some papers have been accepted but not yet able to be retrieved. Please stay tuned : ) Here is latest recomended paper👋
 </p>
-
-## First Author:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Poster</div><img src='_pages/STOP.png' alt="The main figure of selective paper." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STOP?label=STOP Stars)](https://github.com/PoorOtterBob/STOP)<br>
-**Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Xu Wang, Yang Wang&#42;,<br>
-The 42nd International Conference on Machine Learning, **_(ICML)_**, 2025, Vancouver, Canada. (CCF Rank A)
+[Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io),<br>
+We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font></b> with Context-Aware Units <b><font color="red">[ConAUs]</font></b>, Generalized Perturbation Units <b><font color="red">[GenPUs]</font></b> and a customized spatiotemporal distributionally robust optimization approach <b><font color="red">[ST-DRO]</font></b> to address the spatio-temporal out-of-distribution issue.
+
 
 </div>
 </div>
+
+## First Author:
+- [Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STOP?label=STOP Stars)](https://github.com/PoorOtterBob/STOP)<br>
+  **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Xu Wang, Yang Wang&#42;,<br>
+  The 42nd International Conference on Machine Learning, **_(ICML)_**, 2025, Vancouver, Canada. (CCF Rank A)
 
 - [Causal Learning Meet Covariates: Empowering Lightweight and Effective Nationwide Air Quality Forecasting](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/CauAir?label=CauAir Stars)](https://github.com/PoorOtterBob/CauAir)<br>
   **Jiaming Ma**, Zhiqing Cui, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Zhe Zhao, Yang Wang&#42;,<br>
