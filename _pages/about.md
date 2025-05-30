@@ -55,13 +55,13 @@ I look forward to working with collaborators from different scientific backgroun
 <!--- - Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://github.com/PoorOtterBob/STONE-KDD-2024), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024, Barcelona, Spain. (CCF Rank A)-->
 
 <p style="color: gray; font-style: italic; font-size: small;">
-    # Some papers have been accepted but not yet able to be retrieved. Please stay tuned : ) Here is latest recomended paper👋
+    # Some papers have been accepted but not yet able to be retrieved. Please stay tuned : ) Here is a latest and recomended paper👋
 </p>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Poster</div><img src='_pages/STOP.png' alt="The main figure of selective paper." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io),<br>
+[Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io) \| <br>
 We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font></b> with Context-Aware Units <b><font color="red">[ConAUs]</font></b>, Generalized Perturbation Units <b><font color="red">[GenPUs]</font></b> and a customized spatiotemporal distributionally robust optimization approach <b><font color="red">[ST-DRO]</font></b> to address the spatio-temporal out-of-distribution issue.
 
 
