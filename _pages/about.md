@@ -58,12 +58,12 @@ I look forward to working with collaborators from different scientific backgroun
     # Some papers have been accepted but not yet able to be retrieved. Please stay tuned : )
 </p>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Poster</div><img src='_pages/STOP.png' alt="The main figure of selective paper." width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Poster</div><img src='_pages/STOP.png' alt="The main figure of selective paper." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STOP)](https://github.com/PoorOtterBob/STOP)<br>
-  **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Xu Wang, Yang Wang&#42;,<br>
-  The 42nd International Conference on Machine Learning, **_(ICML)_**, 2025, Vancouver, Canada. (CCF Rank A)
+[Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STOP)](https://github.com/PoorOtterBob/STOP)<br>
+**Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Xu Wang, Yang Wang&#42;,<br>
+The 42nd International Conference on Machine Learning, **_(ICML)_**, 2025, Vancouver, Canada. (CCF Rank A)
 
 </div>
 </div>
