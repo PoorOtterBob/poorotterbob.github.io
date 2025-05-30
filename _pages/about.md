@@ -58,6 +58,8 @@ I look forward to working with collaborators from different scientific backgroun
     # Some papers have been accepted but not yet able to be retrieved. Please stay tuned : )
 </p>
 
+## First Author:
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Poster</div><img src='_pages/STOP.png' alt="The main figure of selective paper." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -79,6 +81,8 @@ The 42nd International Conference on Machine Learning, **_(ICML)_**, 2025, Vanco
 - [Spatiotemporal Causal Decoupling Model for Air Quality Forecasting](https://export.arxiv.org/pdf/2505.20119) \| [![](https://img.shields.io/github/stars/PoorOtterBob/AirCade?label=AirCade Stars)](https://github.com/PoorOtterBob/AirCade)<br>
   **Jiaming Ma**, Guanjun Wang, Sheng Huang, Kuo Yang, Bingwu Wang&#42;, Pengkun Wang, Yang Wang&#42;,<br>
   The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing, **_(ICASSP)_**, 2025, Hyderabad, India. (CCF Rank B)
+
+## Co-Author:
 
 - [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://dl.acm.org/doi/abs/10.1145/3637528.3671680) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STONE-KDD-2024?label=STONE Stars)](https://github.com/PoorOtterBob/STONE-KDD-2024)<br>
   Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;,<br>
