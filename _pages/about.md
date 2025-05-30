@@ -58,7 +58,7 @@ I look forward to working with collaborators from different scientific backgroun
     # Some papers have been accepted but not yet able to be retrieved. Please stay tuned : )
 </p>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Poster</div><img src='_pages/STOP.png' alt="The main figure of selective paper." width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Poster</div><img src='_pages/STOP.png' alt="The main figure of selective paper." width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STOP)](https://github.com/PoorOtterBob/STOP)<br>
