@@ -16,7 +16,7 @@ with open(f'results/gs_data.json', 'w') as outfile:
 
 shieldio_data = {
   "schemaVersion": 1,
-  "label": "citations",
+  "label": "Citations",
   "message": f"{author['citedby']}",
 }
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
