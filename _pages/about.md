@@ -51,7 +51,7 @@ I look forward to working with collaborators from different scientific backgroun
 - *2023.09 - present*, Ph.D. in progress, Intelligent Science and Technology, [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), University of Science and Technology of China (USTC). 
 - *2019.09 - 2023.06*, B.Sc., Mathematics and Applied Mathematics, [School of Mathematics](http://math.hnu.edu.cn/index.htm), Hunan University (HNU). 
 
-# 📝 Publications
+# 📝 Publications <a href='https://scholar.google.com/citations?user=ZdWWkYIAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://github.com/PoorOtterBob/poorotterbob.github.io/blob/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 <!--- - Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;, [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://github.com/PoorOtterBob/STONE-KDD-2024), The 30th SIGKDD Conference on Knowledge Discovery and Data Mining, **_(SIGKDD)_**, 2024, Barcelona, Spain. (CCF Rank A)-->
 
 <p style="color: gray; font-style: italic; font-size: small;">
