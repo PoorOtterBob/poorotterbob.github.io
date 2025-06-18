@@ -68,6 +68,10 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 </div>
 
 ## First Author:
+- [MobiMixer: A Multi-scale Spatiotemporal Mixing Model for Mobile Traffic Prediction](https://poorotterbob.github.io),<br>
+  **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Yudong Zhang, Xu Wang, Yang Wang&#42;,<br>
+  IEEE Transactions on Mobile Computing, **_(TM)_**, 2025. (CCF Rank A)
+
 - [Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STOP?label=STOP Stars)](https://github.com/PoorOtterBob/STOP)<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Xu Wang, Yang Wang&#42;,<br>
   The 42nd International Conference on Machine Learning, **_(ICML)_**, 2025, Vancouver, Canada. (CCF Rank A)
