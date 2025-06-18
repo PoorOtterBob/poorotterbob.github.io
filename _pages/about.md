@@ -39,6 +39,7 @@ I am dedicated to making a contribution to the advancement of AI🧠 and DS📊.
 I look forward to working with collaborators from different scientific backgrounds on a wide range of topics in Deep Learning that are strongly related to Mathematics. Fell free to email me : )
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One paper on mobile traffic learning has been accepted by TMC! Thanks to Bin!
 - *2025.05*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal OOD learning has been accepted by ICML 2025! Thanks to Bin!
 - *2025.04*: &nbsp;🎉🎉 One paper on large-scaled air quality forecasting has been accepted by IJCAI 2025! The 1st open-source large-scale air quality dataset (LargeAQ)! Compiled by Cui!
 - *2025.02*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal learning has been accepted by VLDB 2025! SOTA in any-scaled datasets! 
@@ -70,7 +71,7 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 ## First Author:
 - [MobiMixer: A Multi-scale Spatiotemporal Mixing Model for Mobile Traffic Prediction](https://poorotterbob.github.io),<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Yudong Zhang, Xu Wang, Yang Wang&#42;,<br>
-  IEEE Transactions on Mobile Computing, **_(TM)_**, 2025. (CCF Rank A)
+  IEEE Transactions on Mobile Computing, **_(TMC)_**, 2025. (CCF Rank A)
 
 - [Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STOP?label=STOP Stars)](https://github.com/PoorOtterBob/STOP)<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Xu Wang, Yang Wang&#42;,<br>
