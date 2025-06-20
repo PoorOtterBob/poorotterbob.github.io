@@ -111,6 +111,7 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 
 # 💻 Research Internships
 - *2022.08 - present*, [Data Intelligence Lab](http://di.ustc.edu.cn/main.htm), [Suzhou Institute of Advanced Research](https://sz.ustc.edu.cn/index.html), China.
+- *2025.06 - present*, [ColorfulClouds Tech](https://www.caiyunai.com/), China.
 
 # 🔧 Projects 
 - *2024.12 - 2025.12*, School-level Innovation and Entrepreneurship Training Program, "Knowledge-driven and Efficient RFIC Intelligent Debugging Platform", Project member. 
