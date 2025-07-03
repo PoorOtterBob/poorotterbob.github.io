@@ -81,7 +81,7 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
   **Jiaming Ma**, Zhiqing Cui, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Zhe Zhao, Yang Wang&#42;,<br>
   The 34th International Joint Conference on Artificial Intelligence, **_(IJCAI)_**, 2025, Montreal, Canada. (CCF Rank A)
 
-- [BiST: A Lightweight and Efficient Bi-directional Model for Spatiotemporal Prediction](https://poorotterbob.github.io) \| [![](https://img.shields.io/github/stars/PoorOtterBob/BiST?label=BiST Stars)](https://github.com/PoorOtterBob/BiST)<br>
+- [BiST: A Lightweight and Efficient Bi-directional Model for Spatiotemporal Prediction](https://www.vldb.org/pvldb/volumes/18/paper/BiST%3A%20A%20Lightweight%20and%20Efficient%20Bi-directional%20Model%20for%20Spatiotemporal%20Prediction) \| [![](https://img.shields.io/github/stars/PoorOtterBob/BiST?label=BiST Stars)](https://github.com/PoorOtterBob/BiST)<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Xu Wang, Yang Wang&#42;,<br>
   The 51st International Conference on Very Large Data Bases, **_(VLDB)_**, 2025, London, United Kingdom. (CCF Rank A)
 
