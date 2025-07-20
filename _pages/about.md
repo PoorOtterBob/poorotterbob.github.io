@@ -79,7 +79,7 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 </div>
 
 ## First Author:
-- [MobiMixer: A Multi-scale Spatiotemporal Mixing Model for Mobile Traffic Prediction](https://poorotterbob.github.io),<br>
+- [MobiMixer: A Multi-scale Spatiotemporal Mixing Model for Mobile Traffic Prediction](https://ieeexplore.ieee.org/abstract/document/11074465),<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Yudong Zhang, Xu Wang, Yang Wang&#42;,<br>
   IEEE Transactions on Mobile Computing, **_(TMC)_**, 2025. (CCF Rank A)
 
