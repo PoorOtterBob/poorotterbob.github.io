@@ -48,14 +48,61 @@ I am dedicated to making a contribution to the advancement of AI🧠 and DS📊.
 
 I look forward to working with collaborators from different scientific backgrounds on a wide range of topics in Deep Learning that are strongly related to Mathematics. Fell free to email me : )
 
-# 🔥 News
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Homepage</title>
+    <style>
+        .news-container {
+            max-height: 300px; /* 设置最大高度 */
+            overflow-y: auto; /* 允许垂直滚动 */
+            border: 1px solid #ccc; /* 添加边框 */
+            padding: 10px; /* 内边距 */
+            width: 100%; /* 宽度 */
+        }
+        .news-item {
+            margin-bottom: 10px; /* 每个新闻项之间的间距 */
+        }
+    </style>
+</head>
+<body>
+    <h2>🔥 News</h2>
+    <div class="news-container">
+        <div class="news-item">
+            <p>*2025.06*: &nbsp;🎉🎉 One paper on mobile traffic learning has been accepted by TMC! Thanks to Bin!</p>
+        </div>
+        <div class="news-item">
+            <p>*2025.05*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal OOD learning has been accepted by ICML 2025! Thanks to Bin!</p>
+        </div>
+        <div class="news-item">
+            <p>*2025.04*: &nbsp;🎉🎉 One paper on large-scaled air quality forecasting has been accepted by IJCAI 2025! The 1st open-source large-scale air quality dataset (LargeAQ)! Compiled by Cui!</p>
+        </div>
+        <div class="news-item">
+            <p>*2025.02*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal learning has been accepted by VLDB 2025! SOTA in any-scaled datasets!</p>
+        </div>
+        <div class="news-item">
+            <p>*2024.12*: &nbsp;🎉🎉 One paper on air quality causal learning has been accepted by ICASSP 2025! Cooperation with Bin and Guanjun!</p>
+        </div>
+        <div class="news-item">
+            <p>*2024.05*: &nbsp;🎉🎉 One paper on spatiotemporal OOD learning has been accepted by KDD 2024! My first paper thanks to Bin!</p>
+        </div>
+        <div class="news-item">
+            <p>*2023.04*: &nbsp;🎉🎉 A National-level Innovation Training Program, "Degree Theory Research and its Applications in Equations", has completed!</p>
+        </div>
+    </div>
+</body>
+</html>
+
+<!---# 🔥 News
 - *2025.06*: &nbsp;🎉🎉 One paper on mobile traffic learning has been accepted by TMC! Thanks to Bin!
 - *2025.05*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal OOD learning has been accepted by ICML 2025! Thanks to Bin!
 - *2025.04*: &nbsp;🎉🎉 One paper on large-scaled air quality forecasting has been accepted by IJCAI 2025! The 1st open-source large-scale air quality dataset (LargeAQ)! Compiled by Cui!
 - *2025.02*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal learning has been accepted by VLDB 2025! SOTA in any-scaled datasets! 
 - *2024.12*: &nbsp;🎉🎉 One paper on air quality causal learning has been accepted by ICASSP 2025! Cooperation with Bin and Guanjun!
 - *2024.05*: &nbsp;🎉🎉 One paper on spatiotemporal OOD learning has been accepted by KDD 2024! My first paper thanks to Bin!
-- *2023.04*: &nbsp;🎉🎉 A National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", has completed! 
+- *2023.04*: &nbsp;🎉🎉 A National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", has completed!  -->
 
 # 📖 Educations
 <!--- - *2023.09 - present*, M.Sc. in progress, Data Science (Mathematics), [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), University of Science and Technology of China (USTC). -->
