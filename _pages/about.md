@@ -34,7 +34,7 @@ redirect_from:
 # 😊 About me
 Hi! I’m Jiaming Ma, a Ph.D. student in the School of AI+DS at USTC, as a member in [Data Intelligence Lab](http://di.ustc.edu.cn/main.htm) advised by Prof. [Yang Wang](http://di.ustc.edu.cn/_upload/tpl/15/71/5489/template5489/PersonalSite/index.html) and Dr. [Binwu Wang](https://continualgoing.github.io/).<!--I was born in Shenzhen, Guangdong Pronvince. I received my B.Sc. degree in School of Mathematics in June 2023 from Hunan University. In the same year, I was admitted to pursue a M.Sc. degree in School of Artificial Intelligence and Data Science, University of Science and Technology of China without entrance examination. -->
 
-I am dedicated to making a contribution to the advancement of AI🧠 and DS📊. My research interests lie in a wide range of intersection of Deep Learning Structure (e.g. Transformer and GNN) and Algebraic, Optimization and Partial Differential Equations. My current research applications focus on the following areas: 
+I have been fully engaged in every publication from start to finish with hands-on guidance on methodology, theory, experimental validation, and manuscript writing and figure preparation. I am dedicated to making a contribution to the advancement of AI🧠 and DS📊. My research interests lie in a wide range of intersection of Deep Learning Structure (e.g. Transformer and GNN) and Algebraic, Optimization and Partial Differential Equations. My current research applications focus on the following areas: 
 - 🚗 Large-scale and Out-of-Distribution Spatiotemporal Learning;
 - ⏱️ Time Series Forecasting;
 - ⚖️ Imbalanced Graph Classification;
