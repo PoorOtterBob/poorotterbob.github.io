@@ -131,7 +131,7 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 - Program Committee Member for ICLR 2025.
 - Program Committee Member for NIPS 2025.
 - Program Committee Member for AAAI 2026.
-- Program Committee Member for IJCAI 2025.
+- Program Committee Member for IJCAI 2025, Sesssiuon Chair for DM: Mining temporal data.
 - Program Committee Member for ICASSP 2025.
 - Program Committee Member for IJCNN 2025.
 - Program Committee Member for GSP 2025.
