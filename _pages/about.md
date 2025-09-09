@@ -49,7 +49,7 @@ I have been fully engaged in every publication from start to finish with hands-o
 I look forward to working with collaborators from different scientific backgrounds on a wide range of topics in Deep Learning that are strongly related to Mathematics. Fell free to email me : )
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 I am Session Chair on DM: Mining Temporal Data in IJCAI 2025 Guangzhou. See u Guangzhou!
+- *2025.08*: &nbsp;🎉🎉 I am Session Chair on DM: Mining Temporal Data in IJCAI 2025 Guangzhou. See you Guangzhou!
 - *2025.06*: &nbsp;🎉🎉 One paper on mobile traffic learning has been accepted by TMC! Thanks to Bin!
 - *2025.05*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal OOD learning has been accepted by ICML 2025! Thanks to Bin!
 - *2025.04*: &nbsp;🎉🎉 One paper on large-scaled air quality forecasting has been accepted by IJCAI 2025! The 1st open-source large-scale air quality dataset (LargeAQ)! Compiled by Cui!
@@ -108,6 +108,9 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 <!--- *To Be Determined* : ) Almost there!!!-->
 
 # 💬 Invited Talks
+- *2025.09.02*, Presentation on VLDB 2025, London, United Kindom. [\[PPT\]](https://poorotterbob.github.io/) [\[Poster\]](https://poorotterbob.github.io/)
+- *2025.08.31*, Presentation on IJCAI 2025, Guangzhou, China. [\[PPT\]](https://poorotterbob.github.io/) [\[Poster\]](https://poorotterbob.github.io/)
+- *2025.04.16*, Online Presentation on ICASSP 2025, Hyderabad, India. [\[PPT\]](https://poorotterbob.github.io/) [\[Poster\]](https://poorotterbob.github.io/)
 - *2024.07.03*, Online Presentation on KDD 2024, Barcelona, Spain, "Kill Spatial and Temporal Shifts with one STONE🪨". [\[PPT\]](https://poorotterbob.github.io/Presentation/KDD2024_short.pdf) [\[Vedio\]](https://www.youtube.com/watch?v=V_ZGZXFnUXY)<!--(https://poorotterbob.github.io/Presentation/KDD2024_short.mp4)-->
 - *2024.06.13*, Presentation on Optimization Theory course, Hefei, China, "Variance-based Regularization with Convex Objectives".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Variance-based%20Regularization%20with%20Convex%20Objectives.pdf)
 - *2023.09.20*, Presentation on group meeting in Data Intelligence Lab, Suzhou, China, "Residuals Propagation and Rethinking".   [\[PPT\]](https://poorotterbob.github.io/Presentation/Propagation%20on%20Residuals%20and%20Rethinking.pdf)
@@ -121,19 +124,19 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 - *2023.5*  Outstanding Graduate, HNU. 
 
 # 💻 Research Internships
-- *2025.06 - present*, [Colorful Clouds Tech](https://www.caiyunai.com/), Weather Algorithm Intern, China.
 - *2022.08 - present*, [Data Intelligence Lab](http://di.ustc.edu.cn/main.htm), [Suzhou Institute of Advanced Research](https://sz.ustc.edu.cn/index.html), China.
+- *2025.06 - 2025.08*, [Colorful Clouds Tech](https://www.caiyunai.com/), Weather Algorithm Intern, China.
 
 # 🔧 Projects 
 - *2024.12 - 2025.12*, School-level Innovation and Entrepreneurship Training Program, "Knowledge-driven and Efficient RFIC Intelligent Debugging Platform", Project member. 
 - *2022.05 - 2023.04*, National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", Project leader. (Completed)
 
 # 🤝 Activities
-- Program Committee Member for ICLR 2025.
+- Program Committee Member for ICLR 2025, 2026.
 - Program Committee Member for NIPS 2025.
 - Program Committee Member for AAAI 2026.
-- Program Committee Member for IJCAI 2025, Sesssiuon Chair for DM: Mining temporal data.
-- Program Committee Member for ICASSP 2025.
+- Program Committee Member for IJCAI 2025, Sesssiuon Chair of DM: Mining temporal data.
+- Program Committee Member for ICASSP 2025, 2026.
 - Program Committee Member for IJCNN 2025.
 - Program Committee Member for GSP 2025.
 - Program Committee Member for MLSP 2025. 
