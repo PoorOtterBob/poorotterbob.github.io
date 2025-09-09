@@ -49,6 +49,7 @@ I have been fully engaged in every publication from start to finish with hands-o
 I look forward to working with collaborators from different scientific backgrounds on a wide range of topics in Deep Learning that are strongly related to Mathematics. Fell free to email me : )
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 I am Session Chair on DM: Mining Temporal Data in IJCAI 2025 Guangzhou. See u Guangzhou!
 - *2025.06*: &nbsp;🎉🎉 One paper on mobile traffic learning has been accepted by TMC! Thanks to Bin!
 - *2025.05*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal OOD learning has been accepted by ICML 2025! Thanks to Bin!
 - *2025.04*: &nbsp;🎉🎉 One paper on large-scaled air quality forecasting has been accepted by IJCAI 2025! The 1st open-source large-scale air quality dataset (LargeAQ)! Compiled by Cui!
