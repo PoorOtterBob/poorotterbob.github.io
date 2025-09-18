@@ -135,7 +135,6 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 
 # 💻 Research Internships
 - *2022.08 - present*, [Data Intelligence Lab](http://di.ustc.edu.cn/main.htm), [Suzhou Institute of Advanced Research](https://sz.ustc.edu.cn/index.html), China.
-- 
 - *2025.06 - 2025.09*, [Colorful Clouds Tech](https://www.caiyunai.com/), Weather Algorithm Intern, China.
 
  
