@@ -82,11 +82,11 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 
 ## First Author:
 
-- [Less but More: Linear Adaptive Graph Learning Empowering Spatiotemporal Forecasting](https://poorotterbob.github.io/) \| [![]
+- [Less but More: Linear Adaptive Graph Learning Empowering Spatiotemporal Forecasting](https://poorotterbob.github.io/),<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Guanjun Wang, Kuo Yang, Zhengyang Zhou, Pengkun Wang, Xu Wang, Yang Wang&#42;,<br>
   The 39nd Annual Conference on Neural Information Processing Systems, **_(NeurIPS)_**, 2025, Vancouver, America. (CCF Rank A)
 
-- [MoFo: Empowering Long-term Time Series Forecasting with Periodic Pattern Modeling](https://poorotterbob.github.io/) \| [![]
+- [MoFo: Empowering Long-term Time Series Forecasting with Periodic Pattern Modeling](https://poorotterbob.github.io/),<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Qihe Huang, Guanjun Wang, Pengkun Wang, Zhengyang Zhou, Yang Wang&#42;,<br>
   The 39nd Annual Conference on Neural Information Processing Systems, **_(NeurIPS)_**, 2025, Vancouver, America. (CCF Rank A)
 
