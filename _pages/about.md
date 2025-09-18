@@ -49,6 +49,7 @@ I have been fully engaged in every publication from start to finish with hands-o
 I look forward to working with collaborators from different scientific backgrounds on a wide range of topics in Deep Learning that are strongly related to Mathematics. Fell free to email me : )
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Two papers on the better spatiotemporal graph learning and long-term time series foracsting have been accepted by NeurIPS 2025. A principled synergy of theory and empirical insight!
 - *2025.08*: &nbsp;🎉🎉 I will be Session Chair on DM: Mining Temporal Data in IJCAI 2025 Guangzhou. See you Guangzhou!
 - *2025.06*: &nbsp;🎉🎉 One paper on mobile traffic learning has been accepted by TMC! Thanks to Bin!
 - *2025.05*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal OOD learning has been accepted by ICML 2025! Thanks to Bin!
@@ -80,6 +81,15 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 </div>
 
 ## First Author:
+
+- [Less but More: Linear Adaptive Graph Learning Empowering Spatiotemporal Forecasting](https://poorotterbob.github.io/) \| [![]
+  **Jiaming Ma**, Bingwu Wang&#42;, Guanjun Wang, Kuo Yang, Zhengyang Zhou, Pengkun Wang, Xu Wang, Yang Wang&#42;,<br>
+  The 39nd Annual Conference on Neural Information Processing Systems, **_(NeurIPS)_**, 2025, Vancouver, America. (CCF Rank A)
+
+- [MoFo: Empowering Long-term Time Series Forecasting with Periodic Pattern Modeling](https://poorotterbob.github.io/) \| [![]
+  **Jiaming Ma**, Bingwu Wang&#42;, Qihe Huang, Guanjun Wang, Pengkun Wang, Zhengyang Zhou, Yang Wang&#42;,<br>
+  The 39nd Annual Conference on Neural Information Processing Systems, **_(NeurIPS)_**, 2025, Vancouver, America. (CCF Rank A)
+
 - [MobiMixer: A Multi-scale Spatiotemporal Mixing Model for Mobile Traffic Prediction](https://ieeexplore.ieee.org/abstract/document/11074465),<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Yudong Zhang, Xu Wang, Yang Wang&#42;,<br>
   IEEE Transactions on Mobile Computing, **_(TMC)_**, 2025. (CCF Rank A)
