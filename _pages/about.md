@@ -164,7 +164,7 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 - Prof. [Yang Wang](http://di.ustc.edu.cn/_upload/tpl/15/71/5489/template5489/PersonalSite/index.html), Vice Dean of [the School of Software Engineering](https://sse.ustc.edu.cn/main.htm), USTC.
 - Dr. [Binwu Wang](https://continualgoing.github.io/), Associate Researcher, USTC.
 - Dr. [Zhengyang Zhou](http://home.ustc.edu.cn/~zzy0929/Home/), Associate Researcher, USTC.
-- - Dr. [Qihe Huang](http://di.ustc.edu.cn/main.htm), Ph.D. Student, USTC.
+- Dr. [Qihe Huang](http://di.ustc.edu.cn/main.htm), Ph.D. Student, USTC.
 
 # 👀 Vistors
 <!-- 添加一个容器来包裹地图 -->
