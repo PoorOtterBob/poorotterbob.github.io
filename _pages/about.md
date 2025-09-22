@@ -156,12 +156,15 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 - Program Committee Member for ISCI 2025.
 
 # 📆 Teaching
+- *2025.09 - 2026.01*, [Design and Analysis of Algorithm](http://home.ustc.edu.cn/~wx309/lecture/alg2025/index.html), Teaching Assistant, USTC.
+- *2025.09 - 2026.01*, [Software Testing Methods & Technique](https://poorotterbob.github.io/), Teaching Assistant, USTC.
 - *2024.09 - 2025.01*, [Design and Analysis of Algorithm](http://home.ustc.edu.cn/~wx309/lecture/alg2025/index.html), Teaching Assistant, USTC.
 
 # 🎓️ Collaborators
 - Prof. [Yang Wang](http://di.ustc.edu.cn/_upload/tpl/15/71/5489/template5489/PersonalSite/index.html), Vice Dean of [the School of Software Engineering](https://sse.ustc.edu.cn/main.htm), USTC.
 - Dr. [Binwu Wang](https://continualgoing.github.io/), Associate Researcher, USTC.
 - Dr. [Zhengyang Zhou](http://home.ustc.edu.cn/~zzy0929/Home/), Associate Researcher, USTC.
+- - Dr. [Qihe Huang](http://di.ustc.edu.cn/main.htm), Ph.D. Student, USTC.
 
 # 👀 Vistors
 <!-- 添加一个容器来包裹地图 -->
