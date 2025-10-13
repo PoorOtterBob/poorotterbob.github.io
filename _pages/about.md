@@ -84,11 +84,11 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 
 - [Less but More: Linear Adaptive Graph Learning Empowering Spatiotemporal Forecasting](https://poorotterbob.github.io/),<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Guanjun Wang, Kuo Yang, Zhengyang Zhou, Pengkun Wang, Xu Wang, Yang Wang&#42;,<br>
-  The 39nd Annual Conference on Neural Information Processing Systems, **_(NeurIPS)_**, 2025, San Diego, America. (CCF Rank A)
+  The 39nd Annual Conference on Neural Information Processing Systems, **_(NeurIPS)_**, 2025, San Diego, United States of America. (CCF Rank A)
 
 - [MoFo: Empowering Long-term Time Series Forecasting with Periodic Pattern Modeling](https://poorotterbob.github.io/),<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Qihe Huang, Guanjun Wang, Pengkun Wang, Zhengyang Zhou, Yang Wang&#42;,<br>
-  The 39nd Annual Conference on Neural Information Processing Systems, **_(NeurIPS)_**, 2025, San Diego, America. (CCF Rank A)
+  The 39nd Annual Conference on Neural Information Processing Systems, **_(NeurIPS)_**, 2025, San Diego, United States of America. (CCF Rank A)
 
 - [MobiMixer: A Multi-scale Spatiotemporal Mixing Model for Mobile Traffic Prediction](https://ieeexplore.ieee.org/abstract/document/11074465),<br>
   **Jiaming Ma**, Bingwu Wang&#42;, Pengkun Wang, Zhengyang Zhou, Yudong Zhang, Xu Wang, Yang Wang&#42;,<br>
