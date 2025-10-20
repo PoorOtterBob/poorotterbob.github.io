@@ -49,6 +49,9 @@ I have been fully engaged in every publication from start to finish with hands-o
 I look forward to working with collaborators from different scientific backgrounds on a wide range of topics in Deep Learning that are strongly related to Mathematics. Fell free to email me : )
 
 # 🔥 News
+<div style="max-height:220px; overflow-y:auto; border-left:4px solid #f39c12; padding-left:10px; margin-top:8px; scrollbar-width:thin;">
+
+- *2025.10*: &nbsp;🎉🎉 I have got NeurIPS 2025 Scholar Award. See you San Diego!
 - *2025.09*: &nbsp;🎉🎉 Two papers on the better spatiotemporal graph learning and long-term time series foracsting have been accepted by NeurIPS 2025. A principled synergy of theory and empirical insight!
 - *2025.08*: &nbsp;🎉🎉 I will be Session Chair on DM: Mining Temporal Data in IJCAI 2025 Guangzhou. See you Guangzhou!
 - *2025.06*: &nbsp;🎉🎉 One paper on mobile traffic learning has been accepted by TMC! Thanks to Bin!
@@ -58,6 +61,8 @@ I look forward to working with collaborators from different scientific backgroun
 - *2024.12*: &nbsp;🎉🎉 One paper on air quality causal learning has been accepted by ICASSP 2025! Cooperation with Bin and Guanjun!
 - *2024.05*: &nbsp;🎉🎉 One paper on spatiotemporal OOD learning has been accepted by KDD 2024! My first paper thanks to Bin!
 - *2023.04*: &nbsp;🎉🎉 A National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", has completed!
+
+</div>
 
 # 📖 Educations
 <!--- - *2023.09 - present*, M.Sc. in progress, Data Science (Mathematics), [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), University of Science and Technology of China (USTC). -->
