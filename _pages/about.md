@@ -50,6 +50,7 @@ I look forward to working with collaborators from different scientific backgroun
 
 # 🔥 News
 <!-- <div style="max-height:220px; overflow-y:auto; border-left:4px solid #f39c12; padding-left:10px; margin-top:8px; scrollbar-width:thin;"> -->
+- *2025.10*: &nbsp;🎉🎉 I have got National Scholarship for Graduate students. Thanks to Bin!
 - *2025.10*: &nbsp;🎉🎉 I have got NeurIPS 2025 Scholar Award. See you San Diego!
 - *2025.09*: &nbsp;🎉🎉 Two papers on the better spatiotemporal graph learning and long-term time series foracsting have been accepted by NeurIPS 2025. A principled synergy of theory and empirical insight!
 - *2025.08*: &nbsp;🎉🎉 I will be Session Chair on DM: Mining Temporal Data in IJCAI 2025 Guangzhou. See you Guangzhou!
@@ -130,6 +131,7 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 
 # 🥇 Honors and Awards
 <!--- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- *2025.10* National Scholarship for Graduate students, USTC. 
 - *2025.09* First-class Scholarship for Outstanding Students, USTC. 
 - *2024.10* Huawei Scholarship, USTC. 
 - *2024.10* First-class Scholarship for Outstanding Students, USTC. 
