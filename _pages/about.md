@@ -115,6 +115,9 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
   The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing, **_(ICASSP)_**, 2025, Hyderabad, India. (CCF Rank B)
 
 ## Co-Author:
+- [U2B: Scale-unbiased Representation Converter for Graph Classification with Imbalanced and Balanced Scale Distributions](https://openreview.net/pdf?id=sTHCBjl5gP)<br>
+  Guanjun Wang, Jianhao Zhang, Binwu Wang&#42;, **Jiaming Ma**, Sheng Huang, Pengkun Wang, Zhengyang Zhou, Yang Wang&#42;,<br>
+  The 40th Annual AAAI Conference on Artificial Intelligence, **_(AAAI)_**, 2025, Singapo, Singapo. (CCF Rank A)
 
 - [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://dl.acm.org/doi/abs/10.1145/3637528.3671680) \| [![](https://img.shields.io/github/stars/PoorOtterBob/STONE-KDD-2024?label=STONE Stars)](https://github.com/PoorOtterBob/STONE-KDD-2024)<br>
   Binwu Wang, **Jiaming Ma**&#42;, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang&#42;,<br>
