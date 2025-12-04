@@ -32,9 +32,9 @@ redirect_from:
 
 
 # 😊 About me
-<!--, as a member in [Data Intelligence Lab](http://di.ustc.edu.cn/main.htm) advised by Prof. [Yang Wang](http://di.ustc.edu.cn/_upload/tpl/15/71/5489/template5489/PersonalSite/index.html) and Dr. [Binwu Wang](https://continualgoing.github.io/).I was born in Shenzhen, Guangdong Pronvince. I received my B.Sc. degree in School of Mathematics in June 2023 from Hunan University. In the same year, I was admitted to pursue a M.Sc. degree in School of Artificial Intelligence and Data Science, University of Science and Technology of China without entrance examination. -->
+Hi! I’m Jiaming Ma, a Ph.D. student in the School of AI+DS at USTC, as a member in [Data Intelligence Lab](http://di.ustc.edu.cn/main.htm) advised by Prof. [Yang Wang](http://di.ustc.edu.cn/_upload/tpl/15/71/5489/template5489/PersonalSite/index.html) and Dr. [Binwu Wang](https://continualgoing.github.io/).<!--,I was born in Shenzhen, Guangdong Pronvince. I received my B.Sc. degree in School of Mathematics in June 2023 from Hunan University. In the same year, I was admitted to pursue a M.Sc. degree in School of Artificial Intelligence and Data Science, University of Science and Technology of China without entrance examination. -->
 
-Hi! I’m Jiaming Ma, a Ph.D. student in the School of AI+DS at USTC. I have been fully engaged in every publication from start to finish with hands-on guidance on methodology, theory, experimental validation, and manuscript writing and figure preparation. I am dedicated to making a contribution to the advancement of AI🧠 and DS📊. My research interests lie in a wide range of intersection of Deep Learning Structure (e.g. Transformer and GNN) and Algebraic, Optimization and Partial Differential Equations. My current research applications focus on the following areas: 
+I have been fully engaged in every publication from start to finish with hands-on guidance on methodology, theory, experimental validation, and manuscript writing and figure preparation. I am dedicated to making a contribution to the advancement of AI🧠 and DS📊. My research interests lie in a wide range of intersection of Deep Learning Structure (e.g. Transformer and GNN) and Algebraic, Optimization and Partial Differential Equations. My current research applications focus on the following areas: 
 - 🚗 Large-scale and Out-of-Distribution Spatiotemporal Learning;
 - ⏱️ Time Series Forecasting;
 - ⚖️ Imbalanced Graph Classification;
@@ -50,16 +50,16 @@ I look forward to working with collaborators from different scientific backgroun
 
 # 🔥 News
 <!-- <div style="max-height:220px; overflow-y:auto; border-left:4px solid #f39c12; padding-left:10px; margin-top:8px; scrollbar-width:thin;"> -->
-- *2025.10*: &nbsp;🎉🎉 I have got National Scholarship for Graduate students. <!-- Thanks to Bin! -->
+- *2025.10*: &nbsp;🎉🎉 I have got National Scholarship for Graduate students. Thanks to Bin!
 - *2025.10*: &nbsp;🎉🎉 I have got NeurIPS 2025 Scholar Award. See you San Diego!
 - *2025.09*: &nbsp;🎉🎉 Two papers on the better spatiotemporal graph learning and long-term time series foracsting have been accepted by NeurIPS 2025. A principled synergy of theory and empirical insight!
 - *2025.08*: &nbsp;🎉🎉 I will be Session Chair on DM: Mining Temporal Data in IJCAI 2025 Guangzhou. See you Guangzhou!
-- *2025.06*: &nbsp;🎉🎉 One paper on mobile traffic learning has been accepted by TMC! <!-- Thanks to Bin! -->
-- *2025.05*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal OOD learning has been accepted by ICML 2025! <!-- Thanks to Bin! -->
-- *2025.04*: &nbsp;🎉🎉 One paper on large-scaled air quality forecasting has been accepted by IJCAI 2025! The 1st open-source large-scale air quality dataset (LargeAQ)! <!-- Compiled by Cui! -->
+- *2025.06*: &nbsp;🎉🎉 One paper on mobile traffic learning has been accepted by TMC! Thanks to Bin!
+- *2025.05*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal OOD learning has been accepted by ICML 2025! Thanks to Bin!
+- *2025.04*: &nbsp;🎉🎉 One paper on large-scaled air quality forecasting has been accepted by IJCAI 2025! The 1st open-source large-scale air quality dataset (LargeAQ)! Compiled by Cui!
 - *2025.02*: &nbsp;🎉🎉 One paper on large-scaled spatiotemporal learning has been accepted by VLDB 2025! SOTA in any-scaled datasets! 
-- *2024.12*: &nbsp;🎉🎉 One paper on air quality causal learning has been accepted by ICASSP 2025! <!-- Cooperation with Bin and Guanjun! -->
-- *2024.05*: &nbsp;🎉🎉 One paper on spatiotemporal OOD learning has been accepted by KDD 2024! <!-- My first paper thanks to Bin! -->
+- *2024.12*: &nbsp;🎉🎉 One paper on air quality causal learning has been accepted by ICASSP 2025! Cooperation with Bin and Guanjun!
+- *2024.05*: &nbsp;🎉🎉 One paper on spatiotemporal OOD learning has been accepted by KDD 2024! My first paper thanks to Bin!
 - *2023.04*: &nbsp;🎉🎉 A National-level Innovation Training Program, "Degree Theory Reasearch and its Applications in Equations", has completed!
 <!-- </div> -->
 
@@ -169,11 +169,9 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 - *2024.09 - 2025.01*, [Design and Analysis of Algorithm](http://home.ustc.edu.cn/~wx309/lecture/alg2025/index.html), Teaching Assistant, USTC.
 
 # 🎓️ Collaborators
-<!--
 - Prof. [Yang Wang](http://di.ustc.edu.cn/_upload/tpl/15/71/5489/template5489/PersonalSite/index.html), Vice Dean of [the School of Software Engineering](https://sse.ustc.edu.cn/main.htm), USTC.
 - Dr. [Binwu Wang](https://continualgoing.github.io/), Associate Researcher, USTC.
 - Dr. [Zhengyang Zhou](http://home.ustc.edu.cn/~zzy0929/Home/), Associate Researcher, USTC.
--->
 - Dr. [Qihe Huang](http://di.ustc.edu.cn/main.htm), Ph.D. Student, USTC.
 
 # 👀 Vistors
