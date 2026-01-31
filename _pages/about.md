@@ -195,9 +195,6 @@ We introduce a spatio-temporal OOD processor <b><font color="red">[STOP]</font><
 # 📆 Teaching
 - *2025.09 - 2026.01*, [Design and Analysis of Algorithm](http://home.ustc.edu.cn/~wx309/lecture/alg2025/index.html), Teaching Assistant, USTC.
 - *2024.09 - 2025.01*, [Design and Analysis of Algorithm](http://home.ustc.edu.cn/~wx309/lecture/alg2025/index.html), Teaching Assistant, USTC.
-<!--
-- *2025.09 - 2026.01*, [Software Testing Methods & Technique](https://poorotterbob.github.io/), Teaching Assistant, USTC.
--->
 
 
 <!--
