@@ -53,11 +53,11 @@ I have been fully engaged in every publication from start to finish with hands-o
 
 # 🔥 News
 <!-- <div style="max-height:220px; overflow-y:auto; border-left:4px solid #f39c12; padding-left:10px; margin-top:8px; scrollbar-width:thin;"> -->
-- *2026.01*: &nbsp;🎉🎉 Three paper have been accepted by ICLR 2026 on multiple time series forecasting, weather forecasting and imbalanced graph classfication. See you Rio de Janeiro!
-- *2025.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2026 on imbalanced graph classfication. See you Singapore!
+- *2026.01*: &nbsp;🎉🎉 **Three paper have been accepted by ICLR 2026** on multiple time series forecasting, weather forecasting and imbalanced graph classfication. See you Rio de Janeiro!
+- *2025.12*: &nbsp;🎉🎉 **One paper has been accepted by AAAI 2026** on imbalanced graph classfication. See you Singapore!
 - *2025.10*: &nbsp;🎉🎉 I have got National Scholarship for Graduate students.
 - *2025.10*: &nbsp;🎉🎉 I have got NeurIPS 2025 Scholar Award. See you San Diego!
-- *2025.09*: &nbsp;🎉🎉 Two papers on the better spatiotemporal graph learning and long-term time series foracsting have been accepted by NeurIPS 2025. A principled synergy of theory and empirical insight!
+- *2025.09*: &nbsp;🎉🎉 **Two papers have been accepted by NeurIPS 2025** on the better spatiotemporal graph learning and long-term time series foracsting . A principled synergy of theory and empirical insight!
 - *2025.08*: &nbsp;🎉🎉 I will be the Session Chair on DM: Mining Temporal Data in IJCAI 2025 Guangzhou. See you Guangzhou!
 
 <!-- - *2025.06*: &nbsp;🎉🎉 One paper on mobile traffic learning has been accepted by TMC!
