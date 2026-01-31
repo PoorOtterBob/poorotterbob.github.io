@@ -51,7 +51,7 @@ I have been fully engaged in every publication from start to finish with hands-o
 
 
 
-# 🔥 News in 2026
+# 🔥 News
 <!-- <div style="max-height:220px; overflow-y:auto; border-left:4px solid #f39c12; padding-left:10px; margin-top:8px; scrollbar-width:thin;"> -->
 - *2026.01*: &nbsp;🎉🎉 Three paper have been accepted by ICLR 2026 on multiple time series forecasting, weather forecasting and imbalanced graph classfication. See you Rio de Janeiro!
 - *2025.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2026 on imbalanced graph classfication. See you Singapore!
